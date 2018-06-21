@@ -1,7 +1,7 @@
 # FLUX STARWARS
 *Copyright (C) 2018 Valtoni Boaventura*
 
-[![Build Status](https://travis-ci.org/valtoni/flux-starwars.svg)](https://travis-ci.org/valtoni/flux-starwars)
+[![Build Status](https://travis-ci.org/valtoni/flux-starwars.svg?branch=master)](https://travis-ci.org/valtoni/flux-starwars)
 
 ## Introduction
 
