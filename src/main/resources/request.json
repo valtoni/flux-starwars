@@ -1,0 +1,10 @@
+{
+  "id": "5b26a9937a27e2784889b3ab",
+  "name": "Alderaan",
+  "climate": {
+    "name": "worm"
+  },
+  "terrain": {
+    "name": "open"
+  }
+}
